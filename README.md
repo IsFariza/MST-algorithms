@@ -34,7 +34,7 @@ performance than, for example, Array that takes O(n) for contains(), while HashS
 I counted the operations like add, priorityQueue.poll, comparisons.
 Time **O(E logV)**, Space **O(V+E)**
 ### Table with results (from csv file)
-![A table with results](docs/algorithms-results.jpg)
+![A table with results](assignment_3/docs/algorithms-results.jpg)
 
 ## 2. A comparison between Prim’s and Kruskal’s algorithms' performance and efficiency
 ## In Theory:
